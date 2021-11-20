@@ -1,0 +1,3 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED       STATUS                    PORTS                                       NAMES
+843f17f3c943   5d364e62a97d   "/bin/sh -c 'python3…"   7 days ago    Up 6 days                 0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   winerunning
+c10bcac53388   7777086bb85c   "python3"                10 days ago   Exited (255) 7 days ago   0.0.0.0:5050->5050/tcp, :::5050->5050/tcp   designapprunning
